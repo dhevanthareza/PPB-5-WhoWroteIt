@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Who WroteIt</string>
+
+    <string name="instructions">Masukan judul buku yang akan dicari </string>
+    <string name="button_text">Cari Buku</string>
+    <string name="input_hint">Judul Buku</string>
+</resources>
